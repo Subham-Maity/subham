@@ -17,18 +17,13 @@
 
 </div>
 
-<!DOCTYPE html>
-<html>
 
-<body>
-
-<iframe width="952" height="380" src="https://www.youtube.com/embed/B-CJWonl-co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</body>
-</html>
 
 ⭐ Star this repo on GitHub — it helps!
 
+
+
+https://user-images.githubusercontent.com/97989643/163834592-1a55e102-4b8b-4df9-b1a4-da2fe848d3bc.mp4
 
 
 ## Features 📋
